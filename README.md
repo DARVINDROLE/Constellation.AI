@@ -61,7 +61,7 @@ Constellations are more than just patterns in the sky — they represent humanit
 </p>
 
 <p align="center">
-  <img src="tuxxx.jpg" width="600"/>
+  <img src="tuxxx.png" width="600"/>
 </p>
 
 ### 🔍 Constellation Detail (Mobile)  
