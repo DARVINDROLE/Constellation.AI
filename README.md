@@ -79,12 +79,3 @@ Constellations are more than just patterns in the sky — they represent humanit
 
 ---
 
-## 👨‍🚀 Team
-
-- **Frontend & Design:** Laukik Kande  
-- **Data & Plot Engine:** Yashovardhan Poddar  
-- **Research & UI/UX:** Ketan Mali  
-
-> Built for the **NASA Space Apps Challenge 2024** 🌠
-
----
