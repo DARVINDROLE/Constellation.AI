@@ -93,7 +93,7 @@ WnW makes mental health tracking accessible and stigma-free for Indians by lever
 ### Proposed UI Design
 
 <p align="center">
-  <img src="assets/proposed_app_ui.jpg" width="300"/>
+  <img src="tux.png" width="300"/>
 </p>
 
 ---
