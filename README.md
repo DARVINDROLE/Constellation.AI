@@ -57,7 +57,7 @@ Constellations are more than just patterns in the sky — they represent humanit
 
 ### 🌌 Scatter Plot (Desktop)  
 <p align="center">
-  <img src="tuxx.png" width="300"/>
+  <img src="tuxx.jpg" width="300"/>
 </p>
 
 ### 🔍 Constellation Detail (Mobile)  
